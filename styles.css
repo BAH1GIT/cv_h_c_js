@@ -20,4 +20,7 @@ section {
   /* width: 60%;     80% du parent */
   min-height: 60vh; /* pleine hauteur de l’écran */
 }
+.sectionAcccueil{
+    padding-top: 110px;
+}
 
