@@ -1,0 +1,23 @@
+h1, h2 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  color: #ffc107 !important;
+}
+html {
+  font-size: 16px; /* base pour rem */
+}
+
+nav ul a:hover {
+  text-decoration: underline;
+  color: #ffc107 !important;
+  /* font-weight: 500; */
+  /* padding-bottom: 12px; */
+}
+
+
+section {
+  padding: 2rem; /* 2 × 16px = 32px */
+  /* width: 60%;     80% du parent */
+  min-height: 60vh; /* pleine hauteur de l’écran */
+}
+
